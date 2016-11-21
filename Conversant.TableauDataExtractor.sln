@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableauDataExtractor", "Tab
 EndProject
 Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TableauDataExtractorSetup", "TableauDataExtractorSetup\TableauDataExtractorSetup.vdproj", "{FA231EF1-636C-43DF-B7FC-FA913A5689A2}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A6E005C3-7763-4B8A-9B24-735959761821}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		AL101|Any CPU = AL101|Any CPU
