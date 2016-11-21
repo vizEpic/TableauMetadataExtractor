@@ -15,6 +15,12 @@
     {
         "Entry"
         {
+        "MsmKey" = "8:_548DD04E4A2E1998B0AAFEE2A7FD99BA"
+        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_58CC12EEC944BC5EA4DB6366C22412F5"
         "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
         "MsmSig" = "8:_UNDEFINED"
@@ -33,68 +39,92 @@
         }
         "Entry"
         {
+        "MsmKey" = "8:_6F11EE21633A67EA8C4EAFD54058E5C4"
+        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_6F11EE21633A67EA8C4EAFD54058E5C4"
+        "OwnerKey" = "8:_548DD04E4A2E1998B0AAFEE2A7FD99BA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
         "MsmKey" = "8:_70A3BE920564415296D3823F1875BB74"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_77B5CFF6813EA17B1501C8F9B000AFE7"
+        "MsmKey" = "8:_982D176E7CF80AB8808DF89748F39DF9"
         "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_77B5CFF6813EA17B1501C8F9B000AFE7"
-        "OwnerKey" = "8:_AA397AD54DB206508F38732CA81D5A32"
+        "MsmKey" = "8:_982D176E7CF80AB8808DF89748F39DF9"
+        "OwnerKey" = "8:_548DD04E4A2E1998B0AAFEE2A7FD99BA"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_92494BA32D8E40A6266B64FBB2FBE105"
+        "MsmKey" = "8:_982D176E7CF80AB8808DF89748F39DF9"
+        "OwnerKey" = "8:_FD9D73386DD242E3433B1EB7DA88FE2E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_FC63A92C0143F914E44277A3DF112374"
         "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_92494BA32D8E40A6266B64FBB2FBE105"
-        "OwnerKey" = "8:_9256254E100EFB05313B99155B617358"
+        "MsmKey" = "8:_FC63A92C0143F914E44277A3DF112374"
+        "OwnerKey" = "8:_6F11EE21633A67EA8C4EAFD54058E5C4"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_92494BA32D8E40A6266B64FBB2FBE105"
-        "OwnerKey" = "8:_AA397AD54DB206508F38732CA81D5A32"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_9256254E100EFB05313B99155B617358"
+        "MsmKey" = "8:_FD9D73386DD242E3433B1EB7DA88FE2E"
         "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_AA397AD54DB206508F38732CA81D5A32"
-        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C937D0CE61D011FF54DCA3AAF5D3BA81"
-        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_C937D0CE61D011FF54DCA3AAF5D3BA81"
-        "OwnerKey" = "8:_77B5CFF6813EA17B1501C8F9B000AFE7"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_58CC12EEC944BC5EA4DB6366C22412F5"
+        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_548DD04E4A2E1998B0AAFEE2A7FD99BA"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_6F11EE21633A67EA8C4EAFD54058E5C4"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_FC63A92C0143F914E44277A3DF112374"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_FD9D73386DD242E3433B1EB7DA88FE2E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_982D176E7CF80AB8808DF89748F39DF9"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
@@ -106,37 +136,7 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_92494BA32D8E40A6266B64FBB2FBE105"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_9256254E100EFB05313B99155B617358"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_C937D0CE61D011FF54DCA3AAF5D3BA81"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_77B5CFF6813EA17B1501C8F9B000AFE7"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AA397AD54DB206508F38732CA81D5A32"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_70A3BE920564415296D3823F1875BB74"
+        "OwnerKey" = "8:_58CC12EEC944BC5EA4DB6366C22412F5"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -234,6 +234,37 @@
         }
         "File"
         {
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_548DD04E4A2E1998B0AAFEE2A7FD99BA"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Npgsql.EntityFramework, Version=2.2.5.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_548DD04E4A2E1998B0AAFEE2A7FD99BA"
+                    {
+                    "Name" = "8:Npgsql.EntityFramework.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Npgsql.EntityFramework.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_36BB643D472C45E8851F29230C056233"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
             "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_58CC12EEC944BC5EA4DB6366C22412F5"
             {
             "AssemblyRegister" = "3:1"
@@ -241,6 +272,11 @@
             "AssemblyAsmDisplayName" = "8:System.IO.Compression, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
                 "ScatterAssemblies"
                 {
+                    "_58CC12EEC944BC5EA4DB6366C22412F5"
+                    {
+                    "Name" = "8:System.IO.Compression.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:System.IO.Compression.dll"
             "TargetName" = "8:"
@@ -267,6 +303,11 @@
             "AssemblyAsmDisplayName" = "8:System.IO.Compression.FileSystem, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089"
                 "ScatterAssemblies"
                 {
+                    "_59D26B3E45C6C34EA096DC3428BB284A"
+                    {
+                    "Name" = "8:System.IO.Compression.FileSystem.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:System.IO.Compression.FileSystem.dll"
             "TargetName" = "8:"
@@ -286,13 +327,18 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_77B5CFF6813EA17B1501C8F9B000AFE7"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_6F11EE21633A67EA8C4EAFD54058E5C4"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Npgsql, Version=2.2.5.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_6F11EE21633A67EA8C4EAFD54058E5C4"
+                    {
+                    "Name" = "8:Npgsql.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:Npgsql.dll"
             "TargetName" = "8:"
@@ -312,13 +358,18 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_92494BA32D8E40A6266B64FBB2FBE105"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_982D176E7CF80AB8808DF89748F39DF9"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_982D176E7CF80AB8808DF89748F39DF9"
+                    {
+                    "Name" = "8:EntityFramework.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:EntityFramework.dll"
             "TargetName" = "8:"
@@ -338,67 +389,51 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_9256254E100EFB05313B99155B617358"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:EntityFramework.SqlServer.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_36BB643D472C45E8851F29230C056233"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_AA397AD54DB206508F38732CA81D5A32"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Npgsql.EntityFramework, Version=2.2.5.0, Culture=neutral, PublicKeyToken=5d8b90d52f46fda7, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                }
-            "SourcePath" = "8:Npgsql.EntityFramework.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_36BB643D472C45E8851F29230C056233"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:TRUE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_C937D0CE61D011FF54DCA3AAF5D3BA81"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FC63A92C0143F914E44277A3DF112374"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
             "AssemblyAsmDisplayName" = "8:Mono.Security, Version=4.0.0.0, Culture=neutral, PublicKeyToken=0738eb9f132ed756, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
+                    "_FC63A92C0143F914E44277A3DF112374"
+                    {
+                    "Name" = "8:Mono.Security.dll"
+                    "Attributes" = "3:512"
+                    }
                 }
             "SourcePath" = "8:Mono.Security.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_36BB643D472C45E8851F29230C056233"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_FD9D73386DD242E3433B1EB7DA88FE2E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_FD9D73386DD242E3433B1EB7DA88FE2E"
+                    {
+                    "Name" = "8:EntityFramework.SqlServer.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:EntityFramework.SqlServer.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_36BB643D472C45E8851F29230C056233"
@@ -473,7 +508,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:TableauDataExtractor"
         "ProductCode" = "8:{3DE96235-69F8-498F-A48E-28D1AD34A98A}"
-        "PackageCode" = "8:{DF582891-CFE7-48D2-B91E-F2533AEBF7D2}"
+        "PackageCode" = "8:{97023FE3-4564-470B-A667-9477BAB817E7}"
         "UpgradeCode" = "8:{B9525EF2-E541-4931-92F5-59190E842596}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -496,7 +531,7 @@
         "UseSystemSearchPath" = "11:TRUE"
         "TargetPlatform" = "3:1"
         "PreBuildEvent" = "8:"
-        "PostBuildEvent" = "8:"
+        "PostBuildEvent" = "8:xcopy \"$(BuiltOuputPath)\" \"V:\\Dotomi\\Groups\\Analytics\\Business Intelligence\\Installs\""
         "RunPostBuildEvent" = "3:0"
         }
         "Registry"
@@ -994,7 +1029,7 @@
         {
             "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_70A3BE920564415296D3823F1875BB74"
             {
-            "SourcePath" = "8:..\\TableauDataExtractor\\TableauDataExtractor\\obj\\Debug\\TableauDataExtractor.exe"
+            "SourcePath" = "8:..\\TableauDataExtractor\\TableauDataExtractor\\obj\\Release\\TableauDataExtractor.exe"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_36BB643D472C45E8851F29230C056233"

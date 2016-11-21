@@ -242,7 +242,7 @@ namespace TableauDataExtractor.Blob
                 foreach( var columnXml in columnsXml)
                 {
                     var columnName = columnXml.Attribute("name").Value;
-                    var x = 1;
+                  
                     datasourceDependancies.Add(new DatasourceDependancy() { DatasourceName = datasourceName, ColumnName = columnName });
 
                 }

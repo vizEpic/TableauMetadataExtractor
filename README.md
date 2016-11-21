@@ -15,6 +15,9 @@ Make a copy of App.Example.config and rename App.Example.config to App.config.
 Updated credentials in the App.config.
 
 
+## Installation File
+To create set up file. Switch from Debug to Release. Right click on TableauDataExtractorSetUp and Build.
+
 ## Author
 Kakha Urigashvili
 

@@ -56,7 +56,7 @@ namespace TableauDataExtractor.DAL
                 db.SaveChanges();
 
             }
-            catch (DbUpdateConcurrencyException e)
+            catch (DbUpdateConcurrencyException )
             {
                 db.Set<T>().Add(item);
                 db.SaveChanges();

@@ -47,7 +47,7 @@ namespace TableauDataExtractor.TableauMetadata
                         xml =  XDocument.Load(reader);
                         stream.Dispose();
                     }
-                    catch ( Exception ex){
+                    catch ( Exception ){
 
                         stream.Dispose();
 
