@@ -1,6 +1,6 @@
 ## Description
 
-Metdata Extractor for Tableau
+Metadata Extractor for Tableau
 
 ## Development Set Up
 
