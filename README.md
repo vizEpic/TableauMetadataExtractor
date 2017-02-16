@@ -19,8 +19,5 @@ Updated credentials in the App.config.
 To create set up file. Switch from Debug to Release. Right click on TableauDataExtractorSetUp and Build.
 
 ## Author
-Kakha Urigashvili
+Kakha
 
-## License
-
-Conversant
