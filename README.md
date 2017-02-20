@@ -1,9 +1,7 @@
 ## Description
-
-Metadata Extractor for Tableau
+Metadata Extractor for Tableau Server repository
 
 ## Development Set Up
-
 Install Visual Studio (preferably 2013 version and above).
 In Visual Studio go to Tools/NuGet Package Manager/Package Manager Console. 
 Run following command to install dependencies.
@@ -18,6 +16,6 @@ Updated credentials in the App.config.
 ## Installation File
 To create set up file. Switch from Debug to Release. Right click on TableauDataExtractorSetUp and Build.
 
-## Author
-Kakha / Jeff
 
+## No warranty
+This software is supplied AS-IS as an open-source self-service community tool under the MIT license.
