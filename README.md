@@ -20,4 +20,4 @@ To create set up file. Switch from Debug to Release. Right click on TableauDataE
 ## Disclaimer
 This software is supplied AS-IS as an open-source self-service community tool under the MIT license.
 
-This is not supported by Tableau.  It has been designed to work with Tableau Server 10.1 and may work with 9.3 forward.  I just know that it broke when we upgraded from 9.2 to 10.1 and think its because the internal tables changed keys to accommodate revision history.
+This is not supported by Tableau.  It has been designed to work with Tableau Server 10.1 and may in fact work with 9.3 forward.  We know that it broke when we upgraded from 9.2 to 10.1 and think its because the internal PG tables changed keys to accommodate revision history.
